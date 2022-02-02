@@ -1,7 +1,7 @@
 # Contato
 Essa é uma aplicação que é voltada para o estudo de Micro-frontends, usando Module Federation.
 
-_Esse micro-frontend é responsável pela Contact_
+_Esse micro-frontend é responsável pelo Contato_
 
 Essa aplicação é executada na porta ```10003```.
 
